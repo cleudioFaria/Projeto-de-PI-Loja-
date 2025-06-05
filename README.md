@@ -135,9 +135,9 @@ Caso tenha dúvidas ou sugestões, entre em contato comigo:
 
 ---
 # IMAGENS DO PROJETO 
-![A TELA DO PROEJETO RODANDO IP PUBLICO](./imagens/tela-home.png)
+ ![Tela Login](./frontEnd/imagens/tela-home.png)
 
----
-![A TELA DO VSCODE COM SERVIDOR AWS RODANDO ](./imagens/tela-home1.png)
+ 
+![Tela Projeto Rodando na Nuvem da AWS](./frontEnd/imagens/tela-home1.png)
 
  
