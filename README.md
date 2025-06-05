@@ -134,4 +134,10 @@ Caso tenha dúvidas ou sugestões, entre em contato comigo:
 📱 WhatsApp: [(19) 98121-6013](https://wa.me/5519981216013) 
 
 ---
+# IMAGENS DO PROJETO 
+![A TELA DO PROEJETO RODANDO IP PUBLICO](./imagens/tela-home.png)
+
+---
+![A TELA DO VSCODE COM SERVIDOR AWS RODANDO ](./imagens/tela-home1.png)
+
  
